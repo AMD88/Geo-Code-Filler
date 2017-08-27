@@ -16,7 +16,7 @@ var addressNeeded = null;
 //Lets configure and request
 function searchAddress(id, key,callback){
   request({
-      url: 'https://tst1-apis.leapset.com:8443/oauth/token', //URL to hit
+      url: 'https://myurl/oauth/token', //URL to hit
     //  qs: {from: 'blog example', time: +new Date()}, //Query string data
       method: 'POST',
       headers: {
@@ -47,7 +47,7 @@ function searchAddress(id, key,callback){
 
 
   var obj={
-      url:'https://tst1-apis.leapset.com:8443/operator/service/accounts/'+id,
+      url:'https://myurl/operator/service/accounts/'+id,
       method :'GET',
       headers:{
         'Content-Type': 'application/json',
