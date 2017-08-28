@@ -1,0 +1,223 @@
+[Info]10001318: aaa, bbb, Colombo, LK
+[Info]10001318: aaa, bbb, Colombo, LK
+09000010: No address found
+[Info]10001318: aaa, bbb, Colombo, LK
+10001318: OK
+[
+  {
+    "address_components": [
+      {
+        "long_name": "Colombo",
+        "short_name": "Colombo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Colombo",
+        "short_name": "Colombo",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Western Province",
+        "short_name": "WP",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Sri Lanka",
+        "short_name": "LK",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Colombo, Sri Lanka",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 6.980584299999999,
+          "lng": 79.8900851
+        },
+        "southwest": {
+          "lat": 6.8625113,
+          "lng": 79.8225191
+        }
+      },
+      "location": {
+        "lat": 6.9270786,
+        "lng": 79.861243
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 6.980584299999999,
+          "lng": 79.8900851
+        },
+        "southwest": {
+          "lat": 6.8625113,
+          "lng": 79.8225191
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA3B6D9FT4joRjYPTMk0uCzI",
+    "types": [
+      "locality",
+      "political"
+    ]
+  }
+]
+10001318: OK
+[
+  {
+    "address_components": [
+      {
+        "long_name": "Colombo",
+        "short_name": "Colombo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Colombo",
+        "short_name": "Colombo",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Western Province",
+        "short_name": "WP",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Sri Lanka",
+        "short_name": "LK",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Colombo, Sri Lanka",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 6.980584299999999,
+          "lng": 79.8900851
+        },
+        "southwest": {
+          "lat": 6.8625113,
+          "lng": 79.8225191
+        }
+      },
+      "location": {
+        "lat": 6.9270786,
+        "lng": 79.861243
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 6.980584299999999,
+          "lng": 79.8900851
+        },
+        "southwest": {
+          "lat": 6.8625113,
+          "lng": 79.8225191
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA3B6D9FT4joRjYPTMk0uCzI",
+    "types": [
+      "locality",
+      "political"
+    ]
+  }
+]
+10001318: OK
+[
+  {
+    "address_components": [
+      {
+        "long_name": "Colombo",
+        "short_name": "Colombo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Colombo",
+        "short_name": "Colombo",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Western Province",
+        "short_name": "WP",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Sri Lanka",
+        "short_name": "LK",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Colombo, Sri Lanka",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 6.980584299999999,
+          "lng": 79.8900851
+        },
+        "southwest": {
+          "lat": 6.8625113,
+          "lng": 79.8225191
+        }
+      },
+      "location": {
+        "lat": 6.9270786,
+        "lng": 79.861243
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 6.980584299999999,
+          "lng": 79.8900851
+        },
+        "southwest": {
+          "lat": 6.8625113,
+          "lng": 79.8225191
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA3B6D9FT4joRjYPTMk0uCzI",
+    "types": [
+      "locality",
+      "political"
+    ]
+  }
+]
